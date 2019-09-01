@@ -1,0 +1,16 @@
+/TAGS
+/compile/binaries/*.o
+/config/config
+/config/lex.yy.c
+/config/y.tab.c
+/include/conf.h
+/system/conf.c
+/compile/.defs
+/compile/.vers_num
+/compile/xinu.map
+/compile/version
+/compile/xinu
+/compile/xinu.bin
+/compile/xinu.elf
+cscope.out
+TAGS

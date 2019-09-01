@@ -1,0 +1,339 @@
+===PS TEST 1===
+PID: 4, Loop: 0, Priority: 25, Remaining Time Slice: 15, and name: cpu-intensePS1
+PID: 5, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: cpu-intensePS1
+PID: 6, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: cpu-intensePS1
+PID: 7, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: cpu-intensePS1
+PID: 4, Loop: 1, Priority: 25, Remaining Time Slice: 29, and name: cpu-intensePS1
+PID: 5, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: cpu-intensePS1
+PID: 6, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: cpu-intensePS1
+PID: 7, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: cpu-intensePS1
+PID: 4, Loop: 2, Priority: 25, Remaining Time Slice: 43, and name: cpu-intensePS1
+PID: 5, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: cpu-intensePS1
+PID: 6, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: cpu-intensePS1
+PID: 7, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: cpu-intensePS1
+PID: 4, Loop: 3, Priority: 25, Remaining Time Slice: 57, and name: cpu-intensePS1
+PID: 5, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: cpu-intensePS1
+PID: 6, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: cpu-intensePS1
+PID: 7, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: cpu-intensePS1
+PID: 4, Loop: 4, Priority: 25, Remaining Time Slice: 71, and name: cpu-intensePS1
+PID: 5, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: cpu-intensePS1
+PID: 6, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: cpu-intensePS1
+PID: 7, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: cpu-intensePS1
+PID: 4, Loop: 5, Priority: 25, Remaining Time Slice: 85, and name: cpu-intensePS1
+PID: 5, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: cpu-intensePS1
+PID: 6, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: cpu-intensePS1
+PID: 7, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: cpu-intensePS1
+PID: 4, Loop: 6, Priority: 25, Remaining Time Slice: 99, and name: cpu-intensePS1
+PID: 5, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: cpu-intensePS1
+PID: 6, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: cpu-intensePS1
+PID: 7, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: cpu-intensePS1
+PID: 4, Loop: 7, Priority: 25, Remaining Time Slice: 113, and name: cpu-intensePS1
+PID: 5, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: cpu-intensePS1
+PID: 6, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: cpu-intensePS1
+PID: 7, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: cpu-intensePS1
+PID: 4, Loop: 8, Priority: 25, Remaining Time Slice: 127, and name: cpu-intensePS1
+PID: 5, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: cpu-intensePS1
+PID: 6, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: cpu-intensePS1
+PID: 7, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: cpu-intensePS1
+PID: 4, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: cpu-intensePS1
+===== CPU BOUNDED PID 4 ends
+PID: 5, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: cpu-intensePS1
+===== CPU BOUNDED PID 5 ends
+PID: 6, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: cpu-intensePS1
+===== CPU BOUNDED PID 6 ends
+PID: 7, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: cpu-intensePS1
+===== CPU BOUNDED PID 7 ends
+
+
+
+
+===PS TEST 2===
+PID: 8, Loop: 0, Priority: 90, Remaining Time Slice: 15, and name: cpu-intense90PS
+PID: 10, Loop: 0, Priority: 90, Remaining Time Slice: 16, and name: cpu-intense90PS
+PID: 8, Loop: 1, Priority: 90, Remaining Time Slice: 29, and name: cpu-intense90PS
+PID: 10, Loop: 1, Priority: 90, Remaining Time Slice: 30, and name: cpu-intense90PS
+PID: 8, Loop: 2, Priority: 90, Remaining Time Slice: 43, and name: cpu-intense90PS
+PID: 10, Loop: 2, Priority: 90, Remaining Time Slice: 44, and name: cpu-intense90PS
+PID: 8, Loop: 3, Priority: 90, Remaining Time Slice: 57, and name: cpu-intense90PS
+PID: 10, Loop: 3, Priority: 90, Remaining Time Slice: 58, and name: cpu-intense90PS
+PID: 8, Loop: 4, Priority: 90, Remaining Time Slice: 71, and name: cpu-intense90PS
+PID: 10, Loop: 4, Priority: 90, Remaining Time Slice: 72, and name: cpu-intense90PS
+PID: 8, Loop: 5, Priority: 90, Remaining Time Slice: 85, and name: cpu-intense90PS
+PID: 10, Loop: 5, Priority: 90, Remaining Time Slice: 86, and name: cpu-intense90PS
+PID: 9, Loop: 0, Priority: 10, Remaining Time Slice: 16, and name: cpu-intense10PS
+PID: 8, Loop: 6, Priority: 90, Remaining Time Slice: 99, and name: cpu-intense90PS
+PID: 11, Loop: 0, Priority: 10, Remaining Time Slice: 16, and name: cpu-intense10PS
+PID: 10, Loop: 6, Priority: 90, Remaining Time Slice: 100, and name: cpu-intense90PS
+PID: 8, Loop: 7, Priority: 90, Remaining Time Slice: 113, and name: cpu-intense90PS
+PID: 10, Loop: 7, Priority: 90, Remaining Time Slice: 114, and name: cpu-intense90PS
+PID: 8, Loop: 8, Priority: 90, Remaining Time Slice: 127, and name: cpu-intense90PS
+PID: 10, Loop: 8, Priority: 90, Remaining Time Slice: 128, and name: cpu-intense90PS
+PID: 8, Loop: 9, Priority: 90, Remaining Time Slice: 141, and name: cpu-intense90PS
+===== CPU BOUNDED PID 8 ends
+PID: 10, Loop: 9, Priority: 90, Remaining Time Slice: 142, and name: cpu-intense90PS
+===== CPU BOUNDED PID 10 ends
+PID: 9, Loop: 1, Priority: 10, Remaining Time Slice: 30, and name: cpu-intense10PS
+PID: 11, Loop: 1, Priority: 10, Remaining Time Slice: 30, and name: cpu-intense10PS
+PID: 9, Loop: 2, Priority: 10, Remaining Time Slice: 44, and name: cpu-intense10PS
+PID: 11, Loop: 2, Priority: 10, Remaining Time Slice: 44, and name: cpu-intense10PS
+PID: 9, Loop: 3, Priority: 10, Remaining Time Slice: 58, and name: cpu-intense10PS
+PID: 11, Loop: 3, Priority: 10, Remaining Time Slice: 58, and name: cpu-intense10PS
+PID: 9, Loop: 4, Priority: 10, Remaining Time Slice: 72, and name: cpu-intense10PS
+PID: 11, Loop: 4, Priority: 10, Remaining Time Slice: 72, and name: cpu-intense10PS
+PID: 9, Loop: 5, Priority: 10, Remaining Time Slice: 86, and name: cpu-intense10PS
+PID: 11, Loop: 5, Priority: 10, Remaining Time Slice: 86, and name: cpu-intense10PS
+PID: 9, Loop: 6, Priority: 10, Remaining Time Slice: 100, and name: cpu-intense10PS
+PID: 11, Loop: 6, Priority: 10, Remaining Time Slice: 100, and name: cpu-intense10PS
+PID: 9, Loop: 7, Priority: 10, Remaining Time Slice: 114, and name: cpu-intense10PS
+PID: 11, Loop: 7, Priority: 10, Remaining Time Slice: 114, and name: cpu-intense10PS
+PID: 9, Loop: 8, Priority: 10, Remaining Time Slice: 128, and name: cpu-intense10PS
+PID: 11, Loop: 8, Priority: 10, Remaining Time Slice: 128, and name: cpu-intense10PS
+PID: 9, Loop: 9, Priority: 10, Remaining Time Slice: 142, and name: cpu-intense10PS
+===== CPU BOUNDED PID 9 ends
+PID: 11, Loop: 9, Priority: 10, Remaining Time Slice: 142, and name: cpu-intense10PS
+===== CPU BOUNDED PID 11 ends
+
+
+
+
+===PS TEST 3===
+PID: 13, Loop: 0, Priority: 25, Remaining Time Slice: 15, and name: cpu-intense
+PID: 15, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: cpu-intense
+PID: 13, Loop: 1, Priority: 25, Remaining Time Slice: 29, and name: cpu-intense
+PID: 15, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: cpu-intense
+PID: 13, Loop: 2, Priority: 25, Remaining Time Slice: 43, and name: cpu-intense
+PID: 15, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: cpu-intense
+PID: 13, Loop: 3, Priority: 25, Remaining Time Slice: 57, and name: cpu-intense
+PID: 15, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: cpu-intense
+PID: 12, Loop: 0, Priority: 25, Remaining Time Slice: 15, and name: sleep_and_wakeu
+PID: 14, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: sleep_and_wakeu
+PID: 12, Loop: 1, Priority: 25, Remaining Time Slice: 29, and name: sleep_and_wakeu
+PID: 14, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: sleep_and_wakeu
+PID: 13, Loop: 4, Priority: 25, Remaining Time Slice: 70, and name: cpu-intense
+PID: 12, Loop: 2, Priority: 25, Remaining Time Slice: 43, and name: sleep_and_wakeu
+PID: 15, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: cpu-intense
+PID: 14, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: sleep_and_wakeu
+PID: 13, Loop: 5, Priority: 25, Remaining Time Slice: 84, and name: cpu-intense
+PID: 12, Loop: 3, Priority: 25, Remaining Time Slice: 57, and name: sleep_and_wakeu
+PID: 15, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: cpu-intense
+PID: 14, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: sleep_and_wakeu
+PID: 13, Loop: 6, Priority: 25, Remaining Time Slice: 98, and name: cpu-intense
+PID: 12, Loop: 4, Priority: 25, Remaining Time Slice: 71, and name: sleep_and_wakeu
+PID: 15, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: cpu-intense
+PID: 14, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: sleep_and_wakeu
+PID: 13, Loop: 7, Priority: 25, Remaining Time Slice: 112, and name: cpu-intense
+PID: 12, Loop: 5, Priority: 25, Remaining Time Slice: 85, and name: sleep_and_wakeu
+PID: 15, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: cpu-intense
+PID: 14, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: sleep_and_wakeu
+PID: 13, Loop: 8, Priority: 25, Remaining Time Slice: 126, and name: cpu-intense
+PID: 12, Loop: 6, Priority: 25, Remaining Time Slice: 99, and name: sleep_and_wakeu
+PID: 15, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: cpu-intense
+PID: 14, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: sleep_and_wakeu
+PID: 13, Loop: 9, Priority: 25, Remaining Time Slice: 140, and name: cpu-intense
+===== CPU BOUNDED PID 13 ends
+PID: 12, Loop: 7, Priority: 25, Remaining Time Slice: 112, and name: sleep_and_wakeu
+PID: 15, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: cpu-intense
+===== CPU BOUNDED PID 15 ends
+PID: 14, Loop: 7, Priority: 25, Remaining Time Slice: 113, and name: sleep_and_wakeu
+PID: 12, Loop: 8, Priority: 25, Remaining Time Slice: 126, and name: sleep_and_wakeu
+PID: 14, Loop: 8, Priority: 25, Remaining Time Slice: 127, and name: sleep_and_wakeu
+PID: 12, Loop: 9, Priority: 25, Remaining Time Slice: 140, and name: sleep_and_wakeu
+===== CPU BOUNDED PID 12 ends
+PID: 14, Loop: 9, Priority: 25, Remaining Time Slice: 140, and name: sleep_and_wakeu
+===== CPU BOUNDED PID 14 ends
+
+
+
+
+===PS TEST 4===
+PID: 17, Loop: 0, Priority: 40, Remaining Time Slice: 15, and name: cpu-intense40PS
+PID: 19, Loop: 0, Priority: 40, Remaining Time Slice: 16, and name: cpu-intense40PS
+PID: 17, Loop: 1, Priority: 40, Remaining Time Slice: 29, and name: cpu-intense40PS
+PID: 19, Loop: 1, Priority: 40, Remaining Time Slice: 30, and name: cpu-intense40PS
+PID: 17, Loop: 2, Priority: 40, Remaining Time Slice: 43, and name: cpu-intense40PS
+PID: 19, Loop: 2, Priority: 40, Remaining Time Slice: 44, and name: cpu-intense40PS
+PID: 17, Loop: 3, Priority: 40, Remaining Time Slice: 57, and name: cpu-intense40PS
+PID: 19, Loop: 3, Priority: 40, Remaining Time Slice: 58, and name: cpu-intense40PS
+PID: 16, Loop: 0, Priority: 80, Remaining Time Slice: 15, and name: sleep_and_wakeu
+PID: 18, Loop: 0, Priority: 80, Remaining Time Slice: 16, and name: sleep_and_wakeu
+PID: 16, Loop: 1, Priority: 80, Remaining Time Slice: 29, and name: sleep_and_wakeu
+PID: 18, Loop: 1, Priority: 80, Remaining Time Slice: 30, and name: sleep_and_wakeu
+PID: 17, Loop: 4, Priority: 40, Remaining Time Slice: 70, and name: cpu-intense40PS
+PID: 16, Loop: 2, Priority: 80, Remaining Time Slice: 43, and name: sleep_and_wakeu
+PID: 19, Loop: 4, Priority: 40, Remaining Time Slice: 72, and name: cpu-intense40PS
+PID: 18, Loop: 2, Priority: 80, Remaining Time Slice: 44, and name: sleep_and_wakeu
+PID: 16, Loop: 3, Priority: 80, Remaining Time Slice: 57, and name: sleep_and_wakeu
+PID: 18, Loop: 3, Priority: 80, Remaining Time Slice: 58, and name: sleep_and_wakeu
+PID: 17, Loop: 5, Priority: 40, Remaining Time Slice: 84, and name: cpu-intense40PS
+PID: 16, Loop: 4, Priority: 80, Remaining Time Slice: 71, and name: sleep_and_wakeu
+PID: 19, Loop: 5, Priority: 40, Remaining Time Slice: 86, and name: cpu-intense40PS
+PID: 18, Loop: 4, Priority: 80, Remaining Time Slice: 72, and name: sleep_and_wakeu
+PID: 16, Loop: 5, Priority: 80, Remaining Time Slice: 85, and name: sleep_and_wakeu
+PID: 18, Loop: 5, Priority: 80, Remaining Time Slice: 86, and name: sleep_and_wakeu
+PID: 17, Loop: 6, Priority: 40, Remaining Time Slice: 98, and name: cpu-intense40PS
+PID: 16, Loop: 6, Priority: 80, Remaining Time Slice: 99, and name: sleep_and_wakeu
+PID: 19, Loop: 6, Priority: 40, Remaining Time Slice: 100, and name: cpu-intense40PS
+PID: 18, Loop: 6, Priority: 80, Remaining Time Slice: 100, and name: sleep_and_wakeu
+PID: 16, Loop: 7, Priority: 80, Remaining Time Slice: 113, and name: sleep_and_wakeu
+PID: 18, Loop: 7, Priority: 80, Remaining Time Slice: 114, and name: sleep_and_wakeu
+PID: 17, Loop: 7, Priority: 40, Remaining Time Slice: 112, and name: cpu-intense40PS
+PID: 16, Loop: 8, Priority: 80, Remaining Time Slice: 127, and name: sleep_and_wakeu
+PID: 19, Loop: 7, Priority: 40, Remaining Time Slice: 114, and name: cpu-intense40PS
+PID: 18, Loop: 8, Priority: 80, Remaining Time Slice: 128, and name: sleep_and_wakeu
+PID: 16, Loop: 9, Priority: 80, Remaining Time Slice: 141, and name: sleep_and_wakeu
+===== CPU BOUNDED PID 16 ends
+PID: 18, Loop: 9, Priority: 80, Remaining Time Slice: 142, and name: sleep_and_wakeu
+===== CPU BOUNDED PID 18 ends
+PID: 17, Loop: 8, Priority: 40, Remaining Time Slice: 125, and name: cpu-intense40PS
+PID: 19, Loop: 8, Priority: 40, Remaining Time Slice: 128, and name: cpu-intense40PS
+PID: 17, Loop: 9, Priority: 40, Remaining Time Slice: 139, and name: cpu-intense40PS
+===== CPU BOUNDED PID 17 ends
+PID: 19, Loop: 9, Priority: 40, Remaining Time Slice: 142, and name: cpu-intense40PS
+===== CPU BOUNDED PID 19 ends
+
+
+
+
+===AGING TEST 1===
+PID: 22, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: cpu-intensePS2
+PID: 20, Loop: 0, Priority: 25, Remaining Time Slice: 15, and name: cpu-intensePS1
+PID: 23, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: cpu-intensePS2
+PID: 21, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: cpu-intensePS1
+PID: 22, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: cpu-intensePS2
+PID: 20, Loop: 1, Priority: 25, Remaining Time Slice: 29, and name: cpu-intensePS1
+PID: 23, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: cpu-intensePS2
+PID: 21, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: cpu-intensePS1
+PID: 22, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: cpu-intensePS2
+PID: 20, Loop: 2, Priority: 25, Remaining Time Slice: 43, and name: cpu-intensePS1
+PID: 23, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: cpu-intensePS2
+PID: 21, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: cpu-intensePS1
+PID: 22, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: cpu-intensePS2
+PID: 20, Loop: 3, Priority: 25, Remaining Time Slice: 57, and name: cpu-intensePS1
+PID: 23, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: cpu-intensePS2
+PID: 21, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: cpu-intensePS1
+PID: 22, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: cpu-intensePS2
+PID: 20, Loop: 4, Priority: 25, Remaining Time Slice: 71, and name: cpu-intensePS1
+PID: 23, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: cpu-intensePS2
+PID: 21, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: cpu-intensePS1
+PID: 22, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: cpu-intensePS2
+PID: 20, Loop: 5, Priority: 25, Remaining Time Slice: 85, and name: cpu-intensePS1
+PID: 23, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: cpu-intensePS2
+PID: 21, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: cpu-intensePS1
+PID: 22, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: cpu-intensePS2
+PID: 20, Loop: 6, Priority: 25, Remaining Time Slice: 99, and name: cpu-intensePS1
+PID: 23, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: cpu-intensePS2
+PID: 21, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: cpu-intensePS1
+PID: 22, Loop: 7, Priority: 25, Remaining Time Slice: 115, and name: cpu-intensePS2
+PID: 20, Loop: 7, Priority: 25, Remaining Time Slice: 113, and name: cpu-intensePS1
+PID: 23, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: cpu-intensePS2
+PID: 21, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: cpu-intensePS1
+PID: 22, Loop: 8, Priority: 25, Remaining Time Slice: 129, and name: cpu-intensePS2
+PID: 20, Loop: 8, Priority: 25, Remaining Time Slice: 127, and name: cpu-intensePS1
+PID: 23, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: cpu-intensePS2
+PID: 21, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: cpu-intensePS1
+PID: 22, Loop: 9, Priority: 25, Remaining Time Slice: 143, and name: cpu-intensePS2
+===== CPU BOUNDED PID 22 ends
+PID: 20, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: cpu-intensePS1
+===== CPU BOUNDED PID 20 ends
+PID: 23, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: cpu-intensePS2
+===== CPU BOUNDED PID 23 ends
+PID: 21, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: cpu-intensePS1
+===== CPU BOUNDED PID 21 ends
+
+
+
+
+===AGING TEST 2===
+PID: 24, Loop: 0, Priority: 25, Remaining Time Slice: 15, and name: 18cpu-intensePS
+PID: 25, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: 18cpu-intensePS
+PID: 24, Loop: 1, Priority: 25, Remaining Time Slice: 29, and name: 18cpu-intensePS
+PID: 25, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: 18cpu-intensePS
+PID: 24, Loop: 2, Priority: 25, Remaining Time Slice: 43, and name: 18cpu-intensePS
+PID: 25, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: 18cpu-intensePS
+PID: 26, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: 10cpu-intensePS
+PID: 24, Loop: 3, Priority: 25, Remaining Time Slice: 57, and name: 18cpu-intensePS
+PID: 25, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: 18cpu-intensePS
+PID: 24, Loop: 4, Priority: 25, Remaining Time Slice: 71, and name: 18cpu-intensePS
+PID: 25, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: 18cpu-intensePS
+PID: 27, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: 10cpu-intensePS
+PID: 24, Loop: 5, Priority: 25, Remaining Time Slice: 85, and name: 18cpu-intensePS
+PID: 25, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: 18cpu-intensePS
+PID: 24, Loop: 6, Priority: 25, Remaining Time Slice: 99, and name: 18cpu-intensePS
+PID: 25, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: 18cpu-intensePS
+PID: 24, Loop: 7, Priority: 25, Remaining Time Slice: 113, and name: 18cpu-intensePS
+PID: 25, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: 18cpu-intensePS
+PID: 26, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: 10cpu-intensePS
+PID: 24, Loop: 8, Priority: 25, Remaining Time Slice: 127, and name: 18cpu-intensePS
+PID: 25, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: 18cpu-intensePS
+PID: 24, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: 18cpu-intensePS
+===== CPU BOUNDED PID 24 ends
+PID: 25, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: 18cpu-intensePS
+===== CPU BOUNDED PID 25 ends
+PID: 27, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: 10cpu-intensePS
+PID: 26, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: 10cpu-intensePS
+PID: 27, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: 10cpu-intensePS
+PID: 26, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: 10cpu-intensePS
+PID: 27, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: 10cpu-intensePS
+PID: 26, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: 10cpu-intensePS
+PID: 27, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: 10cpu-intensePS
+PID: 26, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: 10cpu-intensePS
+PID: 27, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: 10cpu-intensePS
+PID: 26, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: 10cpu-intensePS
+PID: 27, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: 10cpu-intensePS
+PID: 26, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: 10cpu-intensePS
+PID: 27, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: 10cpu-intensePS
+PID: 26, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: 10cpu-intensePS
+PID: 27, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: 10cpu-intensePS
+PID: 26, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: 10cpu-intensePS
+===== CPU BOUNDED PID 26 ends
+PID: 27, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: 10cpu-intensePS
+===== CPU BOUNDED PID 27 ends
+
+
+
+
+===AGING TEST 3===
+PID: 30, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: 18cpu-intensePS
+PID: 31, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: 18cpu-intensePS
+PID: 30, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: 18cpu-intensePS
+PID: 31, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: 18cpu-intensePS
+PID: 30, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: 18cpu-intensePS
+PID: 31, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: 18cpu-intensePS
+PID: 28, Loop: 0, Priority: 25, Remaining Time Slice: 15, and name: 10cpu-intensePS
+PID: 29, Loop: 0, Priority: 25, Remaining Time Slice: 16, and name: 10cpu-intensePS
+PID: 30, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: 18cpu-intensePS
+PID: 31, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: 18cpu-intensePS
+PID: 30, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: 18cpu-intensePS
+PID: 31, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: 18cpu-intensePS
+PID: 30, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: 18cpu-intensePS
+PID: 31, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: 18cpu-intensePS
+PID: 30, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: 18cpu-intensePS
+PID: 31, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: 18cpu-intensePS
+PID: 28, Loop: 1, Priority: 25, Remaining Time Slice: 29, and name: 10cpu-intensePS
+PID: 29, Loop: 1, Priority: 25, Remaining Time Slice: 30, and name: 10cpu-intensePS
+PID: 30, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: 18cpu-intensePS
+PID: 31, Loop: 7, Priority: 25, Remaining Time Slice: 114, and name: 18cpu-intensePS
+PID: 30, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: 18cpu-intensePS
+PID: 31, Loop: 8, Priority: 25, Remaining Time Slice: 128, and name: 18cpu-intensePS
+PID: 30, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: 18cpu-intensePS
+===== CPU BOUNDED PID 30 ends
+PID: 31, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: 18cpu-intensePS
+===== CPU BOUNDED PID 31 ends
+PID: 28, Loop: 2, Priority: 25, Remaining Time Slice: 43, and name: 10cpu-intensePS
+PID: 29, Loop: 2, Priority: 25, Remaining Time Slice: 44, and name: 10cpu-intensePS
+PID: 28, Loop: 3, Priority: 25, Remaining Time Slice: 57, and name: 10cpu-intensePS
+PID: 29, Loop: 3, Priority: 25, Remaining Time Slice: 58, and name: 10cpu-intensePS
+PID: 28, Loop: 4, Priority: 25, Remaining Time Slice: 71, and name: 10cpu-intensePS
+PID: 29, Loop: 4, Priority: 25, Remaining Time Slice: 72, and name: 10cpu-intensePS
+PID: 28, Loop: 5, Priority: 25, Remaining Time Slice: 85, and name: 10cpu-intensePS
+PID: 29, Loop: 5, Priority: 25, Remaining Time Slice: 86, and name: 10cpu-intensePS
+PID: 28, Loop: 6, Priority: 25, Remaining Time Slice: 99, and name: 10cpu-intensePS
+PID: 29, Loop: 6, Priority: 25, Remaining Time Slice: 100, and name: 10cpu-intensePS
+PID: 28, Loop: 7, Priority: 25, Remaining Time Slice: 113, and name: 10cpu-intensePS
+PID: 29, Loop: 7, Priority: 25, Remaining Time Slice: 115, and name: 10cpu-intensePS
+PID: 28, Loop: 8, Priority: 25, Remaining Time Slice: 127, and name: 10cpu-intensePS
+PID: 29, Loop: 8, Priority: 25, Remaining Time Slice: 129, and name: 10cpu-intensePS
+PID: 28, Loop: 9, Priority: 25, Remaining Time Slice: 141, and name: 10cpu-intensePS
+===== CPU BOUNDED PID 28 ends
+PID: 29, Loop: 9, Priority: 25, Remaining Time Slice: 142, and name: 10cpu-intensePS
+===== CPU BOUNDED PID 29 ends

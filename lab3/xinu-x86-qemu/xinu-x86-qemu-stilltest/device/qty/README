@@ -1,0 +1,3 @@
+* UART device driver for Xinu (QEMU compatible)
+- Mostly ported from Pintos (see `LICENSE.pintos`)
+- Byoungyoung Lee (byoungyoung@purdue.edu)
